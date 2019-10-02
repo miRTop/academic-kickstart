@@ -61,9 +61,6 @@ user_groups:
 ---
 
 
-### Community
-
-
 ### My tools
 
 [mirtop](https://github.com/mirtop/mirtop)
