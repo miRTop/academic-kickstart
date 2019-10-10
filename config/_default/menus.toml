@@ -8,6 +8,11 @@
   url = "#about"
   weight = 10
 
+[[main]]
+  name = "About"
+  url = "pages/about_full"
+  weight = 15
+
 # [[main]]
 #   name = "Posts"
 #   url = "#posts"
