@@ -18,12 +18,7 @@ superuser: true
 #   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-interests:
-- miRNA pipelines
-- reproducibility
-- scalabitlity
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # education:
 #   courses:
@@ -70,4 +65,4 @@ user_groups:
 - Orgnizing committee
 ---
 
-miRTOP is a international community project to boost networking and collaboration with the goal to improve small RNA analysis.
+miRTOP, or “miRNA-Transcriptomic Open Project”, is an open and community-based project acting as a platform where microRNA researchers from any origins,field, and career level can meet, exchange, and develop new miRNA-related projects in a collaborative and respectful environment. miRTOP was initiated in 2015 by the collaboration of a few researchers that aimed at creating a reflection group on metazoan miRNAs to identify blockages in our understanding of their nature and diversity, as well as pitfalls and solutions for their analysis using high-throughput transcriptomic techniques. Instead of favoring one vision or one tool/software over the other(s), the miRTOP community recognizes that each miRNA research project possesses its own constraints and requirements to address the formulated hypotheses. miRTOP therefore inherently values diversity of opinions and research interests, fosters alternative perspectives and approaches, and promotes the development of downstream miRNA analysis tools that are compatible with existing detection and quantification tools.
