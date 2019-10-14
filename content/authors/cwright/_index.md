@@ -14,11 +14,11 @@ role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Johns Hopkins Bloomber School of Public Health
+- name: Johns Hopkins Bloomberg School of Public Health
   # url: "https://www.jhsph.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Research Associate at Johns Hopkins Bloomber School of Public Health
+bio: Research Associate at Johns Hopkins Bloomberg School of Public Health
 
 interests:
 - RNA
