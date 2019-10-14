@@ -79,5 +79,5 @@ Carrie Wright's research interests are in data science and data analysis, as wel
 
 ### Community
 
-Dr Wright is a member of the [Johns Hopkins Data Science Lab](https://jhudatascience.org/) and the [Open Case Study Project](https://opencasestudies.github.io/).[Join the [Rladies Baltimore Chapter](https://rladies-baltimore.github.io/) if you are interested in data science using R and live in the Baltimore area.
+Dr Wright is a member of the [Johns Hopkins Data Science Lab](https://jhudatascience.org/) and the [Open Case Study Project](https://opencasestudies.github.io/). Join the [Rladies Baltimore Chapter](https://rladies-baltimore.github.io/) if you are interested in data science using R and live in the Baltimore area.
 
