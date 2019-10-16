@@ -14,11 +14,11 @@ role: Research Associate
 
 # Organizations/Affiliations
 organizations:
-- name: Johns Hopkins Bloomber School of Public Health
+- name: Johns Hopkins Bloomberg School of Public Health
   # url: "https://www.jhsph.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests are in data science and data analysis, as well as gene regulation, particularly involving small noncoding regulatory RNAs. I am interesting in advancing methods to better characterize the expression of regulatory RNAs and in educational content development for data science.
+bio: Research Associate at Johns Hopkins Bloomberg School of Public Health
 
 interests:
 - RNA
@@ -45,7 +45,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:cwrigh60@jh.edu"'  # For a direct email link, use "mailto:test@example.org".
+- icon: home
+  icon_pack: fas
+  link: https://carriewright11.github.io/
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mirnas22
@@ -55,6 +58,7 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/carriewright11
+  
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -71,8 +75,9 @@ user_groups:
 
 ---
 
+Carrie Wright's research interests are in data science and data analysis, as well as gene regulation, particularly involving small noncoding regulatory RNAs. She is interesting in advancing methods to better characterize the expression of regulatory RNAs and in educational content development for data science.
 
 ### Community
 
- Join the [Rladies chapter](https://rladies-baltimore.github.io/) in  the Baltimore area.
+Dr Wright is a member of the [Johns Hopkins Data Science Lab](https://jhudatascience.org/) and the [Open Case Study Project](https://opencasestudies.github.io/). Join the [Rladies Baltimore Chapter](https://rladies-baltimore.github.io/) if you are interested in data science using R and live in the Baltimore area.
 
