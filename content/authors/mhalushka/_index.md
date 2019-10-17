@@ -42,7 +42,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mhalush1@jhmi.edu"'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:mhalush1@jhmi.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Marc_Halushka
@@ -70,7 +70,7 @@ user_groups:
 - Members
 ---
 
-Marc Halushka, MD, PhD is a Professor of Pathology at Johns Hopkins University School of Medicine. He obtained his MD (2001) and PhD (2000) at Case Western Reserve University.  He is a practicing cardiovascular pathologist with a strong interest in microRNA localization and expression patterning.
+Marc Halushka, MD, PhD is a Professor of Pathology at Johns Hopkins University School of Medicine. He is a practicing cardiovascular pathologist with a strong interest in microRNA localization and expression patterning.
 
 ### Community
 

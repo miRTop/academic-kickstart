@@ -45,7 +45,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:cwrigh60@jh.edu"'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:cwrigh60@jh.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: home
   icon_pack: fas
   link: https://carriewright11.github.io/
@@ -75,9 +75,9 @@ user_groups:
 
 ---
 
-Carrie Wright's research interests are in data science and data analysis, as well as gene regulation, particularly involving small noncoding regulatory RNAs. She is interesting in advancing methods to better characterize the expression of regulatory RNAs and in educational content development for data science.
+Carrie Wright's research interests are in data science and data analysis, as well as gene regulation, particularly involving small noncoding regulatory RNAs. She is interested in advancing methods to better characterize the expression of regulatory RNAs and in educational content development for data science.
 
 ### Community
 
-Dr Wright is a member of the [Johns Hopkins Data Science Lab](https://jhudatascience.org/) and the [Open Case Study Project](https://opencasestudies.github.io/). Join the [Rladies Baltimore Chapter](https://rladies-baltimore.github.io/) if you are interested in data science using R and live in the Baltimore area.
+Dr Wright is a member of the [Johns Hopkins Data Science Lab](https://jhudatascience.org/) and the [Open Case Study Project](https://opencasestudies.github.io/). Join the [Rladies Baltimore Chapter](https://rladies-baltimore.github.io/) if you are interested in data science using R and you live in the Baltimore area.
 
